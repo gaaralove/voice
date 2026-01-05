@@ -1,0 +1,9 @@
+{
+  "name": "One-Click Gourmet AI",
+  "description": "An intelligent food ordering assistant that learns your taste from screenshots and enables ordering with a single sentence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
